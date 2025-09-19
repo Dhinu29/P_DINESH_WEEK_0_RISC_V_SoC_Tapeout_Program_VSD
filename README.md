@@ -27,9 +27,9 @@ and setup of the essential tools on Ubuntu, including Yosys, GTKWave, and Icarus
 
 4. Installation Steps
 
-```bash
 
-### 4.1 Install Yosys
+4.1 Install Yosys
+```bash
 sudo apt-get update
 git clone https://github.com/YosysHQ/yosys.git
 cd yosys
@@ -43,21 +43,29 @@ make
 sudo make install
 # Verify installation
 yosys -V
+```
 
 
-
-###4.2 Install Icarus Verilog
+4.2 Install Icarus Verilog
+```bash
 sudo apt-get update
 sudo apt-get install iverilog
 
 # Verify installation
 iverilog -V
+```
 
 
-###4.3 Install GTKWave
+4.3 Install GTKWave
+```bash
 sudo apt-get update
 sudo apt install gtkwave
 
 # Verify installation
 gtkwave --version
+```
+5. Tool Snapshot Documentation	
+Take screenshots after installation and verification to include in your GitHub repository. Example table format:
+5.1 YOSYS:
+Command to Verify: yosys -V
 
