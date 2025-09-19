@@ -21,11 +21,11 @@ This guide documents the **installation & setup** of the essential tools on **Ub
 
 | 🔧 Parameter        | 📋 Specification |
 |---------------------|------------------|
-| 🖥 Virtual Machine  | Oracle VirtualBox [⬇ Download](https://www.virtualbox.org/wiki/Downloads) |
-| 🐧 Operating System | Ubuntu 20.04+ |
-| 🧠 RAM              | 6 GB |
-| 💾 Hard Disk        | 50 GB |
-| ⚙️ CPU              | 4 vCPU |
+|  Virtual Machine  | Oracle VirtualBox [⬇ Download](https://www.virtualbox.org/wiki/Downloads) |
+|  Operating System | Ubuntu 20.04+ |
+|  RAM              | 6 GB |
+|  Hard Disk        | 50 GB |
+| ⚙ CPU              | 4 vCPU |
 
 ---
 
