@@ -11,9 +11,9 @@ The **RISC-V Reference SoC Tapeout Program** requires a set of open-source **EDA
 ✔️ Verification  
 
 This guide documents the **installation & setup** of the essential tools on **Ubuntu**, including:  
-- 🔹 **Yosys** (RTL synthesis)  
-- 🔹 **GTKWave** (Waveform viewer)  
-- 🔹 **Icarus Verilog** (Simulation)  
+ 🔹 **Yosys** (RTL synthesis)  
+ 🔹 **GTKWave** (Waveform viewer)  
+ 🔹 **Icarus Verilog** (Simulation)  
 
 ---
 
