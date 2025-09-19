@@ -27,8 +27,9 @@ and setup of the essential tools on Ubuntu, including Yosys, GTKWave, and Icarus
 
 4. Installation Steps
 
-### 4.1 Install Yosys
 ```bash
+
+### 4.1 Install Yosys
 sudo apt-get update
 git clone https://github.com/YosysHQ/yosys.git
 cd yosys
