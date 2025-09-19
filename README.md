@@ -41,6 +41,14 @@ sudo apt-get update
 sudo apt install gtkwave
 # Verify installation
 gtkwave –version	
+
+
+
+
+
+
+<img width="1592" height="822" alt="GTKWAVE_TOOL_VERIFY" src="https://github.com/user-attachments/assets/048c4590-960b-41c2-8431-0d77938738f7" />
+
 5. Verification
 After installing all tools:
 •	Verify that Yosys runs without errors:
