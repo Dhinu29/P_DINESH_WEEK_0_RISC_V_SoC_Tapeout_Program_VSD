@@ -46,7 +46,7 @@ yosys -V
 
 
 
-4.2 Install Icarus Verilog
+###4.2 Install Icarus Verilog
 sudo apt-get update
 sudo apt-get install iverilog
 
@@ -54,8 +54,7 @@ sudo apt-get install iverilog
 iverilog -V
 
 
-
-4.3 Install GTKWave
+###4.3 Install GTKWave
 sudo apt-get update
 sudo apt install gtkwave
 
