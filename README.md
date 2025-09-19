@@ -43,3 +43,20 @@ sudo make install
 # Verify installation
 yosys -V
 
+
+### 4.2 Install Icarus Verilog
+```bash
+sudo apt-get update
+sudo apt-get install iverilog
+# Verify installation
+iverilog -V
+
+
+### 4.3 Install GTKWave
+```bash
+sudo apt-get update
+sudo apt install gtkwave
+# Verify installation
+gtkwave --version
+
+
